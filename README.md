@@ -1,1 +1,2 @@
-# Diamonds_GenAI
+This report explores the process of developing strategies for the bidding card game "Diamonds" using a genetic algorithm framework (GenAI). The report discusses the challenges encountered, teaching GenAI the game, iterating upon strategies, and concludes with an analysis of the results.
+This assignment is a part of the module 3 on GenAI as a part of the Women Engineers program by Talentsprint, supported by Google.
